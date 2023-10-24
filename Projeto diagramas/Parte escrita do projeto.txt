@@ -1,0 +1,50 @@
+Regras de negócio
+
+RN01 Para se cadastrar é necessário ter CPF OU CNPJ.
+RN02 É necessário ser maior de 18 anos.
+
+Requisitos Funcionais
+RF 01 – Permitir acesso dos clientes através de um Login;
+RF 02 – Manter cadastro de clientes;
+RF 03 - Filtrar produtos;
+RF 04 - Consultar pedidos;
+RF 05 - Hórario de funcionamento 08:00 ás 18:00 de seg á sex;
+
+Requisitos não Funcionais
+RNF 01 – O aplicativo será feito por programadores contratados pela loja;
+RNF 02 - A manutenção do aplicativo será feita pelos programadores contratados;
+RNF 03 – O aplicativo poderá ser instalado em qualquer celular e em qualquer sistema operacional;
+RNF 04 - O aplicativo deve implementar medidas de segurança, como criptografia de dados, autenticação de usuário e proteção contra ataques cibernéticos;
+
+Requisitos de domínio
+Manter dados do cartão
+
+Narrativa de caso de uso
+1 O cliente entra no aplicativo para se cadastrar
+2 O sistema oferece a home do site com a tela de cadastro
+3 O cliente preenche os dados de cadastro
+4 O sistema irá redirecioná-lo para o catálago da loja
+5 O cliente escolherá o produto
+6 O sistema irá reconhecer o pedido e abrir a aba de pagamento
+7 O cliente insere seu endereço e os dados do cartão de crédito
+8 O sistema confirma os dados do cliente e finaliza a compra
+9 O cliente receberá um email quando a compra estiver a caminho
+10 O sistema irá finalizar a compra
+
+Introdução
+O aplicativo foi desenvolvido para cadastrar os clientes da loja a terem uma experiencia prática e rápida de adquirir peças automotivas de alta qualidade.
+
+JUSTIFICATIVA
+Aplicativo muito simples de se mexer. Sua interface intuitiva e amigável torna o processo de cadastro de clientes e compra de peças automotivas extremamente simples e acessível para usuários de todos os níveis de habilidade tecnológica.
+
+METODOLOGIA
+Utilizei StarUML e Word
+
+
+
+
+
+
+
+
+
